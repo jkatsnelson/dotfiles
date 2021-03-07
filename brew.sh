@@ -97,5 +97,13 @@ brew install tree
 brew install vbindiff
 brew install zopfli
 
+# jkats personal additions
+
+brew install iterm2
+brew install google-chrome
+brew install firefox
+brew install terraform
+brew install azure-cli
+
 # Remove outdated versions from the cellar.
 brew cleanup
