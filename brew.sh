@@ -99,11 +99,15 @@ brew install zopfli
 
 # jkats personal additions
 
-brew install iterm2
-brew install google-chrome
-brew install firefox
+brew install --cask iterm2
+brew install --cask google-chrome
+brew install --cask firefox
 brew install terraform
 brew install azure-cli
+brew install --cask spotify
+brew install --cask maccy
+brew install --cask sublime-text
+brew install --cask sizeup
 
 # Remove outdated versions from the cellar.
 brew cleanup
